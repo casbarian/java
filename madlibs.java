@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class MadLibs
+public class madlibs
 {
     public static void main(String[] args)
     {
