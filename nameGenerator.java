@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyProgram
+public class nameGenerator
 {
     public static void main(String[] args)
     {
