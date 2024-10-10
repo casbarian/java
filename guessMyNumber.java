@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class MyProgram
+public class guessMyNumber
 {
     public static void main(String[] args)
     {
